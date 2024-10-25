@@ -61,7 +61,7 @@ a {
 	background-size: cover;
 	background-position: top center;
 	position: relative;
-	height: 500px;
+	height: 100%;
 	z-index: 1;
 }
 
