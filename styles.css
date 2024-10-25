@@ -61,3 +61,11 @@ a {
   background-size: cover;
   position: relative;
 }
+.hero {
+	background-image: url("pomo.jpeg");
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	height: 250px;
+	z-index: 1;
+}
