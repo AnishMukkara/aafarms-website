@@ -58,10 +58,5 @@ a {
 }
 .mainbody-about {
 	background-image: url("gargen.jpeg");
-	background-size: cover;
-	background-position: top center;
-	position: relative;
-	height: 100%;
-	z-index: 1;
 }
 
