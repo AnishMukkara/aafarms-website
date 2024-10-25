@@ -56,3 +56,12 @@ a {
 	height: 250px;
 	z-index: 1;
 }
+.mainbody-about {
+	background-image: url("gargen.jpeg");
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	height: 500px;
+	z-index: 1;
+}
+
