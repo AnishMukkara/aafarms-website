@@ -42,6 +42,6 @@ a {
 
 .bottom{
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-	color: white;
+	color: red;
 	font-size: 17px;
 }
